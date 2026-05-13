@@ -75,9 +75,8 @@ Visual dashboard
 Actionable recommendations
 
 📌 Risk Guide
-0–35% → Low Risk
-35–65% → Medium Risk
-65–100% → High Risk
+0–50% → Low Risk
+50–100% → High Risk
 👩‍💻 Author
 
 Aishwarya Patil
