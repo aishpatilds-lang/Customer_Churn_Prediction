@@ -74,12 +74,4 @@ Revenue Risk (6 months)
 Visual dashboard
 Actionable recommendations
 
-📌 Risk Guide
-0–50% → Low Risk
-50–100% → High Risk
-👩‍💻 Author
 
-Aishwarya Patil
-GitHub: https://github.com/aishpatilds-lang
-
-LinkedIn: https://linkedin.com/in/aishwarya-patil-299108338
