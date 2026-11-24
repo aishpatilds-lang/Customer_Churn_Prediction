@@ -69,7 +69,7 @@ Online Security
 
 📈 Output
 Churn Probability (%)
-Risk Level (Low / Medium / High)
+Risk Level (Low / High)
 Revenue Risk (6 months)
 Visual dashboard
 Actionable recommendations
